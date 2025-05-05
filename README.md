@@ -1,0 +1,1 @@
+# ghc22-exercise-1--obstacle-avoidance-solved
